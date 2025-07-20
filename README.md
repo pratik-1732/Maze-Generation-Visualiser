@@ -47,5 +47,5 @@ maze-visualizer/
 That’s it — no build tools or installation required.
 
 ## 📸 Screenshots
-![Maze Demo](screenshots.jpg)
+![Maze Demo](background.jpg)
 
